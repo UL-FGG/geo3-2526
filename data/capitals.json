@@ -1,0 +1,65 @@
+[
+    {
+        "State": "Austria",
+        "Capital": "Vienna",
+        "Lat": 48.2092,
+        "Lon": 16.3728,
+        "Alt": 170
+    },
+    {
+        "State": "Bosnia and Herzegovina",
+        "Capital": "Sarajevo",
+        "Lat": 43.8608,
+        "Lon": 18.4214,
+        "Alt": 577
+    },
+    {
+        "State": "Croatia",
+        "Capital": "Zagreb",
+        "Lat": 45.815,
+        "Lon": 15.9785,
+        "Alt": 130
+    },
+    {
+        "State": "Italy",
+        "Capital": "Roma \/ Rome",
+        "Lat": 41.8955,
+        "Lon": 12.4823,
+        "Alt": 14
+    },
+    {
+        "State": "Kosovo",
+        "Capital": "Prishtine \/ Pristina",
+        "Lat": 42.674,
+        "Lon": 21.1788,
+        "Alt": 652
+    },
+    {
+        "State": "Montenegro",
+        "Capital": "Podgorica",
+        "Lat": 42.4602,
+        "Lon": 19.2595,
+        "Alt": 61
+    },
+    {
+        "State": "North Macedonia",
+        "Capital": "Skopje",
+        "Lat": 42.0024,
+        "Lon": 21.4361,
+        "Alt": 243
+    },
+    {
+        "State": "Serbia",
+        "Capital": "Beograd \/ Belgrade",
+        "Lat": 44.8048,
+        "Lon": 20.4781,
+        "Alt": 116
+    },
+    {
+        "State": "Slovenia",
+        "Capital": "Ljubljana",
+        "Lat": 46.0514,
+        "Lon": 14.506,
+        "Alt": 281
+    }
+]
