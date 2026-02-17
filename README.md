@@ -6,6 +6,8 @@ Krištof Oštir
 Univerza v Ljubljani, Fakulteta za gradbeništvo in geodezijo  
 (c) 2026
 
+![alt text](figures/geopython_256.png)
+
 ## Uvod
 
 Za delo pri predmetu Geoinformatika III bomo uporabljali Python in Jupyter Lab. Večino dela bomo opravili v razvojnem okolju Visual Studio Code (VSCode). Če že uporabljate VSCode, ga posodobite na najnovejšo različico. Če ga še nimate, ga namestite z [https://code.visualstudio.com/](https://code.visualstudio.com/). Lahko pa uprabite tudi PyCharm ali katero koli drugo IDE, ki podpira Python in Jupyter Notebooke.
