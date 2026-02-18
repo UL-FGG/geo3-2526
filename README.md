@@ -22,7 +22,7 @@ Za namestitev potrebnih programov in knjižnic sledite navodilom v tem dokumentu
 Namestite Python
 
    * [Anaconda Python 3](https://www.anaconda.com/products/distribution). Lahko za Windows, macOS ali Linux.
-   * [Miniconda Python 3](https://docs.conda.io/en/latest/miniconda.html) (manjša različica Anaconde). Če uporabljate Minicondo, lahko ukaz `conda` vedno zamenjate z `mamba`. Mamba je veliko hitrejša alternativa za upravljanje okolij in nameščanje paketov. Mamba je še posebej priporočljiva, če imate veliko paketov ali pogosto posodabljate okolja. Njen privzet kanal je `conda-forge`, ki je zelo zanesljiv in pogosto posodobljen, zato ni potrebe po dodatnem nastavljanju kanalov.
+   * [GitHub - conda-forge/miniforge: A conda-forge distribution.](https://github.com/conda-forge/miniforge) (manjša različica Anaconde, ki je bolj prilagodljiva in lažja). Če uporabljate Miniforge, lahko ukaz `conda` vedno zamenjate z `mamba`. Mamba je veliko hitrejša alternativa za upravljanje okolij in nameščanje paketov. Mamba je še posebej priporočljiva, če imate veliko paketov ali pogosto posodabljate okolja. Njen privzet kanal je `conda-forge`, ki je zelo zanesljiv in pogosto posodobljen, zato ni potrebe po dodatnem nastavljanju kanalov.
 
 Vedno uporabljajte ukazno vrstico (Windows) ali terminal (macOS/Linux), ki vsebuje condo/mambo, to je `Anaconda Powershell Prompt` ali `Miniforge Prompt`. Preverite namestitev in delovanje Conda/Mamba z naslednjimi ukazi:
 
